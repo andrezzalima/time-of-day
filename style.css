@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    margin: auto;
+    background: rgb(0, 0, 0);
+    background-attachment: fixed;
+    background-position: 100vh;
+    font: normal 15pt Arial;
+    height: 100vh;
+
+}
+
+header{
+color: white;
+text-align: center;
+margin: 30px;
+}
+
+section{
+    width: 70vw;
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    margin:auto;
+    box-shadow: 5px 5px 5px rgb(56, 56, 56);
+    
+}
+div {
+    text-align: center;
+    padding: 8px;
+    
+}
+
+footer{
+text-align: center;
+color: white;
+font-style: italic;
+font-size: 14px;
+margin-top: 20px;
+
+}
